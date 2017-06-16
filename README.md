@@ -43,4 +43,7 @@ And after all, run this...
 php artisan migrate
 ```
 
- 
+ A create direcories for icons -
+```
+  /publish/upload/icons/categories/
+```
